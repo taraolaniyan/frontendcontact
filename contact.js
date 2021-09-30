@@ -1,0 +1,1 @@
+alert("Thank you for completing this survey");
